@@ -1,0 +1,25 @@
+{
+  "item": [
+    {
+      "item": "Asus ROG",
+      "category": "Laptop",
+      "price": 15000000,
+      "stock": 10,
+      "userid": 1
+    },
+    {
+      "item": "Alien Ware",
+      "category": "Laptop",
+      "price": 19000000,
+      "stock": 15,
+      "userid": 1
+    },
+    {
+      "item": "Asus Taft",
+      "category": "Laptop",
+      "price": 25000000,
+      "stock": 20,
+      "userid": 1
+    }
+  ]
+}
